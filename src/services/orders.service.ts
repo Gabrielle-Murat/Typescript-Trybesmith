@@ -14,4 +14,15 @@ export default class OrdersService {
 
     return orders;
   }
+
+  public async create(userId: number, productsIds: number[]) {
+    const orderId = await this.model.create(userId);
+
+    const updatedProdIds = await Promise.all(productsIds.map(async (productId) => {
+      const response = await this.model.updateProductsTable(orderId, productId);
+      return response;
+    }));
+
+    return { userId, productsIds: updatedProdIds };
+  }
 }
