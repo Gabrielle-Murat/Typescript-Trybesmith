@@ -51,7 +51,7 @@
 
 <h2 id="sobre"> :pencil: Sobre o projeto </h2>
 
-  <p align="center">Projeto desenvolvido durante a formação de BackEnd na Trybe com o intuito de iniciar o aprendizado de P.O.O. e Typescript.</p>
+  <p align="center">Projeto desenvolvido durante a formação de BackEnd na Trybe com o intuito de consolidar o início do aprendizado de P.O.O. e Typescript, utlizando padrões arquiteturais MSC e REST.</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
@@ -70,7 +70,8 @@
   <br />
   <a href="https://expressjs.com/" target="_blank"><img src="gif/express-logo.png" alt="Express Logo" width="20%"></a>
   <a href="https://joi.dev/" target="_blank"><img src="gif/joi-logo.png" alt="Joi Logo" width="5.45%"></a>
-  <a href="https://jwt.io/" target="_blank"><img src="gif/jwt-logo.png" alt="JWT Logo" width="7.3%"></a>
+  <a href="" target="_blank"><img src="gif/rest.png" alt="REST Logo" width="7.3%"></a>
+  <a href="https://jwt.io/" target="_blank"><img src="gif/jwt-logo.png" alt="JWT Logo" width="7.35%"></a>
 </p>
 
 <p align="center">
