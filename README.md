@@ -3,7 +3,7 @@
 <h1 align="center">Projeto Typescript - Trybesmith</h1>
 
 <p align="center"> 
-  <img src="gif/nome.jpg" alt="Nome Logo" width="37%">
+  <img src="gif/typescript.jpg" alt="Typescript Logo" width="40%">
 </p>
 
 <p align="center">
@@ -51,7 +51,7 @@
 
 <h2 id="sobre"> :pencil: Sobre o projeto </h2>
 
-  <p align="center">Projeto desenvolvido durante a formação de BackEnd na Trybe com o intuito de consolidar o aprendizado de Typescript .</p>
+  <p align="center">Projeto desenvolvido durante a formação de BackEnd na Trybe com o intuito de iniciar o aprendizado de P.O.O. e Typescript.</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
@@ -65,11 +65,12 @@
   <a href="https://github.com/" target="_blank"><img src="gif/github-logo.jpg" alt="gitHub Logo" width="15%"></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="gif/mysql-logo.png" alt="MySQL Logo" width="22%"></a>
   <br />
-  <a href="https://nodejs.org/en/" target="_blank"><img src="gif/nodejs-logo.png" alt="NodeJs Logo" width="10.5%"></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="gif/typescript-logo.png" alt="Typescript Logo" width="10%"></a>
   <a href="https://nodemon.io/" target="_blank"><img src="gif/nodemon-logo.png" alt="Nodemon Logo" width="9%"></a>
   <br />
   <a href="https://expressjs.com/" target="_blank"><img src="gif/express-logo.png" alt="Express Logo" width="20%"></a>
-  <a href="https://joi.dev/" target="_blank"><img src="gif/joi-logo.png" alt="Joi Logo" width="5.5%"></a>
+  <a href="https://joi.dev/" target="_blank"><img src="gif/joi-logo.png" alt="Joi Logo" width="5.45%"></a>
+  <a href="https://jwt.io/" target="_blank"><img src="gif/jwt-logo.png" alt="JWT Logo" width="7.3%"></a>
 </p>
 
 <p align="center">
@@ -80,7 +81,7 @@
 
 <details>
   <summary>Descrição</summary><br />
-  Tem-se um arquivo (` `) que foi utilizado como base para fazer  .<br /><br />
+  Tem-se um arquivo (``) que foi utilizado como base para fazer  .<br /><br />
   
   Neste projeto eu realizei:
   
